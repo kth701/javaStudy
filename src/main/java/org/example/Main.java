@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("첫번째 commit한 내용 ");
         System.out.println("Project Diva");
+        System.out.println("Project Classic");
     }
 }
