@@ -9,5 +9,8 @@ public class Main {
         System.out.println("Project Classic");
 
         System.out.println("Project Classic master");
+        System.out.println("Project Classic2");
+
+        System.out.println("master에서 내용 수정");
     }
 }
